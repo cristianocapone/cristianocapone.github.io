@@ -9,11 +9,11 @@ The brain is capable of learning and solving problems with an astonishing tempor
 
 ### Code Resources
 
-- [GOAL](https://github.com/myscience/goal) in pythorch
+- [GOAL](https://github.com/myscience/goal) implementation in pythorch. [Link](https://arxiv.org/abs/2109.01039) to the publication.
 
-- [LTTB](https://github.com/cristianocapone/LTTB)
+- [LTTB](https://github.com/cristianocapone/LTTB). [Link](https://arxiv.org/abs/2201.11717) to the publication.
 
-- [LTTS](https://github.com/myscience/LTTS)
+- [LTTS](https://github.com/myscience/LTTS). [Link](https://doi.org/10.1371/journal.pone.0247014) to the publication.
 
 
 ### Selected Publications, AI

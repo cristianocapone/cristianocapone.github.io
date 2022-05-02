@@ -6,11 +6,11 @@ The brain is capable of learning and solving problems with an astonishing tempor
 
 ### Code Resources
 
--  [GOAL](https://github.com/myscience/LTTS) in pythorch
+-  [GOAL](https://github.com/myscience/goal) in pythorch
 
 - [LTTB](https://github.com/cristianocapone/LTTB)
 
-- [LTTS](https://github.com/myscience/goal)
+- [LTTS](https://github.com/myscience/LTTS)
 
 
 ### Selected Publications, AI
@@ -47,7 +47,6 @@ The brain is capable of learning and solving problems with an astonishing tempor
 - Di Volo, M., Romagnoni, A., Capone, C., & Destexhe, A. (2019). Biologically realistic mean-field models of conductance-based networks of spiking neurons with adaptation. Neural computation, 31(4), 653–680. https://doi.org/10.1162/neco_a_01173
 
 - Capone, C., & Mattia, M. (2017). Speed hysteresis and noise shaping of traveling fronts in neural fields: Role of local circuitry and nonlocal connectivity. Scientific reports, 7(1), 1–10.   https://doi.org/10.1038/srep39611
-
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

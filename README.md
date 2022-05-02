@@ -4,7 +4,7 @@ INFN APE Parallel/Distributed Computing laboratory, Italy
 
 mail: _cristiano0capone@gmail.com_
 
-<img src="/me.png" width="150" height="150">
+<img src="/me.png" width="200" >
 
 The brain is capable of learning and solving problems with an astonishing temporal and energetic efficiency. In the last years, I have been interested in understanding biological intelligence and in exploiting its most interesting aspects to improve artificial intelligence.
 

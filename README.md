@@ -1,6 +1,6 @@
 ## Cristiano Capone, Research Scientist, AI
 
-Postdoc at INFN, Italy
+INFN APE Parallel/Distributed Computing laboratory, Italy
 
 mail: _cristiano0capone@gmail.com_
 

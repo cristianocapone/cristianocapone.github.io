@@ -2,15 +2,13 @@
 
 mail: _cristiano0capone@gmail.com_
 
-
-![me](/me.png | width=100)
-<img src="/me.png" width="100" height="100">
+<img src="/me.png" width="150" height="150">
 
 The brain is capable of learning and solving problems with an astonishing temporal and energetic efficiency. In the last years, I have been interested in understanding biological intelligence and in exploiting its most interesting aspects to improve artificial intelligence.
 
 ### Code Resources
 
-- Pythorch implementation of [GOAL](https://github.com/myscience/goal), . [Link](https://arxiv.org/abs/2109.01039) to the publication.
+- Pythorch implementation of [GOAL](https://github.com/myscience/goal), Generalized Optimal Apprentiship Learning (GOAL): Unifying Error-Based and Target-Based Learning via Feedback Control. [Link](https://arxiv.org/abs/2109.01039) to the publication.
 
 - [LTTB](https://github.com/cristianocapone/LTTB). [Link](https://arxiv.org/abs/2201.11717) to the publication.
 

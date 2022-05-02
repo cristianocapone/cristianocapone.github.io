@@ -1,10 +1,10 @@
-## Cristiano Capone, Research Scientist, AI
+%## Cristiano Capone, Research Scientist, AI
 
 INFN APE Parallel/Distributed Computing laboratory, Italy
 
 mail: _cristiano0capone@gmail.com_
 
-<img src="/me.png" width="200" >
+<img src="/me.png" width="270" >
 
 The brain is capable of learning and solving problems with an astonishing temporal and energetic efficiency. In the last years, I have been interested in understanding biological intelligence and in exploiting its most interesting aspects to improve artificial intelligence.
 

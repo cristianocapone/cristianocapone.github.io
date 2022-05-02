@@ -1,6 +1,8 @@
 ## Cristiano Capone, Research Scientist, AI
 
+![image]()
 
+The brain is capable of learning and solving problems with an astonishing temporal and energetic efficiency. In the last years, I have been interested in understanding biological intelligence and in exploiting its most interesting aspects to improve artificial intelligence.
 
 ### Code Resources
 

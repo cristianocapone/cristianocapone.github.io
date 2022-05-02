@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Cristiano Capone, Research Scientist, AI
  
 You can use the [editor on GitHub](https://github.com/cristianocapone/cristianocapone.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,7 +11,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Selected Publications
+
+- Bulleted
+- List- Bulleted
+- List
 ## Header 2
 ### Header 3
 

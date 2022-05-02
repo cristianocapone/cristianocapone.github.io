@@ -38,15 +38,15 @@ The brain is capable of learning and solving problems with an astonishing tempor
 
 ### Selected Publications, Neuroscience
 
-- Tort-Colet N., Capone, C., Sanchez-Vives, M. V., & Mattia, M. (2021). Attractor competition enriches cortical dynamics during awakening from anesthesia. Cell Reports, 35(12), 109270.  https://doi.org/10.1016/j.celrep.2021.109270.
+- Tort-Colet N., Capone, C., Sanchez-Vives M. V., & Mattia M. (2021). Attractor competition enriches cortical dynamics during awakening from anesthesia. Cell Reports, 35(12), 109270.  https://doi.org/10.1016/j.celrep.2021.109270.
 
-- Nghiem, T.-A. E., Tort-Colet, N., Górski, T., Ferrari, U., Telenczuk, B., Capone, C., . . . Di Volo, M. et al. (2020). Cholinergic switch between two types of slow waves in cerebral cortex. Cerebral Cortex, 30(6), 3451–3466. https://doi.org/10.1093/cercor/bhz320
+- Nghiem T.-A. E., Tort-Colet N., Górski T., Ferrari U., Telenczuk B., Capone C., . . . Di Volo, M. et al. (2020). Cholinergic switch between two types of slow waves in cerebral cortex. Cerebral Cortex, 30(6), 3451–3466. https://doi.org/10.1093/cercor/bhz320
 
--  Capone, C., Rebollo, B., Muñoz, A., Illa, X., Del Giudice, P., Sanchez-Vives, M. V., & Mattia, M. (2019). Slow-waves in cortical slices: how spontaneous activity is shaped by laminar structure. Cerebral Cortex, 2019. https://doi.org/10.1093/cercor/bhx326
+-  Capone C., Rebollo B., Muñoz A., Illa X., Del Giudice P., Sanchez-Vives, M. V., & Mattia, M. (2019). Slow-waves in cortical slices: how spontaneous activity is shaped by laminar structure. Cerebral Cortex, 2019. https://doi.org/10.1093/cercor/bhx326
 
-- Di Volo, M., Romagnoni, A., Capone, C., & Destexhe, A. (2019). Biologically realistic mean-field models of conductance-based networks of spiking neurons with adaptation. Neural computation, 31(4), 653–680. https://doi.org/10.1162/neco_a_01173
+- Di Volo M., Romagnoni A., Capone C., & Destexhe A. (2019). Biologically realistic mean-field models of conductance-based networks of spiking neurons with adaptation. Neural computation, 31(4), 653–680. https://doi.org/10.1162/neco_a_01173
 
-- Capone, C., & Mattia, M. (2017). Speed hysteresis and noise shaping of traveling fronts in neural fields: Role of local circuitry and nonlocal connectivity. Scientific reports, 7(1), 1–10.   https://doi.org/10.1038/srep39611
+- Capone C., & Mattia M. (2017). Speed hysteresis and noise shaping of traveling fronts in neural fields: Role of local circuitry and nonlocal connectivity. Scientific reports, 7(1), 1–10.   https://doi.org/10.1038/srep39611
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

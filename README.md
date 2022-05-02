@@ -1,4 +1,4 @@
-%## Cristiano Capone, Research Scientist, AI
+# Cristiano Capone, Research Scientist, AI
 
 INFN APE Parallel/Distributed Computing laboratory, Italy
 

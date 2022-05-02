@@ -4,12 +4,11 @@
 
 ### Code Resources
 
-- https://github.com/myscience/LTTS
-**Description:**
+-  [GOAL](https://github.com/myscience/LTTS) in pythorch
 
-- https://github.com/cristianocapone/LTTB
+- [LTTB](https://github.com/cristianocapone/LTTB)
 
-- https://github.com/myscience/goal
+- [LTTS](https://github.com/myscience/goal)
 
 
 ### Selected Publications, AI

@@ -3,7 +3,7 @@
 mail: _cristiano0capone@gmail.com_
 
 
-![me](/least-github-pages/assets/me.png)
+![me](/cristianocapone.github.io/assets/me.png)
 
 The brain is capable of learning and solving problems with an astonishing temporal and energetic efficiency. In the last years, I have been interested in understanding biological intelligence and in exploiting its most interesting aspects to improve artificial intelligence.
 

@@ -1,6 +1,6 @@
 ## Cristiano Capone, Research Scientist, AI
 
-mail:cristiano0capone@gmail.com
+mail: _cristiano0capone@gmail.com_
 
 
 ![me](https://github.com/cristianocapone/cristianocapone.github.io/blob/main/docs/assets/me.png)

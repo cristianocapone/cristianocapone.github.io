@@ -1,8 +1,8 @@
-# Cristiano Capone, Research Scientist, AI
+## Cristiano Capone, Research Scientist, AI
 
 INFN APE Parallel/Distributed Computing laboratory, Italy
 
-mail: _cristiano0capone@gmail.com_
+mail: _cristiano0capone @ gmail . com_
 
 <img src="/me.png" width="270" >
 

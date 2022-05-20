@@ -17,10 +17,11 @@ The brain is capable of learning and solving problems with an astonishing tempor
 
 ### Selected Publications, AI
 
+- Capone C., et al. "Towards biologically plausible Dreaming and Planning" arXiv (2022).
+- 
+- Capone C., et al. "Burst-dependent plasticity and dendritic amplification support target-based learning and hierarchical imitation learning." arXiv preprint arXiv:2201.11717 (2022). Accepted on ICML 2022. https://arxiv.org/abs/2201.11717
 
-- Capone C., et al. "Burst-dependent plasticity and dendritic amplification support target-based learning and hierarchical imitation learning." arXiv preprint arXiv:2201.11717 (2022). https://arxiv.org/abs/2201.11717
-
-- Capone C.,Muratore P., & Paolucci P. S. (2021). Error-based or target-based? a unifying framework for learning in recurrent spiking networks. arXiv preprint arXiv:2109.01039. (under review in Plos Computational Biology, “likely to be accepted”) https://arxiv.org/abs/2109.01039
+- Capone C.,Muratore P., & Paolucci P. S. (2021). Error-based or target-based? a unifying framework for learning in recurrent spiking networks. arXiv preprint arXiv:2109.01039. Accepted on Plos Computational Biology. https://arxiv.org/abs/2109.01039
 
 - Muratore P., Capone C., & Paolucci P. S. (2021). Target spike patterns enable efficient and biologically plausible learning for complex temporal tasks. Plos one, 16(2), e0247014. https://doi.org/10.1371/journal.pone.0247014
 

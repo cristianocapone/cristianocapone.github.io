@@ -10,7 +10,7 @@ The brain is capable of learning and solving problems with an astonishing tempor
 
 ### Code Resources
 
-- [GOAL](https://github.com/myscience/goal) in Pythorch, Generalized Optimal Apprentiship Learning: Unifying Error-Based and Target-Based Learning via Feedback Control. [Link](https://arxiv.org/abs/2109.01039) to the publication. Accepted on Plos Computational Biology.
+- [GOAL](https://github.com/myscience/goal) in Pythorch, Generalized Optimal Apprentiship Learning. [Link](https://arxiv.org/abs/2109.01039) to the publication. Accepted on Plos Computational Biology.
 
 - [LTTB](https://github.com/cristianocapone/LTTB) in Python, Learning Through Target Bursts. [Link](https://arxiv.org/abs/2201.11717) to the publication. Accepted on ICML 2022.
 

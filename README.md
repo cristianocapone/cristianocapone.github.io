@@ -1,6 +1,7 @@
 INFN APE Parallel/Distributed Computing laboratory, Italy
 
 mail: _cristiano0capone @ gmail . com_
+google scholar: [link](https://scholar.google.it/citations?user=wyHFdf4AAAAJ&hl=it)
 
 <img src="/me.png" width="270" >
 
@@ -11,6 +12,8 @@ The brain is capable of learning and solving problems with an astonishing tempor
 - Pythorch implementation of [GOAL](https://github.com/myscience/goal), Generalized Optimal Apprentiship Learning: Unifying Error-Based and Target-Based Learning via Feedback Control. [Link](https://arxiv.org/abs/2109.01039) to the publication. Accepted on Plos Computational Biology.
 
 - Python implementation of [LTTB](https://github.com/cristianocapone/LTTB), Learning Through Target Bursts. [Link](https://arxiv.org/abs/2201.11717) to the publication. Accepted on ICML 2022.
+
+- Python imp
 
 - Python implementation of [LTTS](https://github.com/myscience/LTTS), Learning Through Target Spikes. [Link](https://doi.org/10.1371/journal.pone.0247014) to the publication.
 

@@ -19,7 +19,8 @@ The brain is capable of learning and solving problems with an astonishing tempor
 
 ### Selected Publications, AI
 
-- Capone C., et al. "Towards biologically plausible Dreaming and Planning" arXiv (2022).
+- Capone C., et al. "Towards biologically plausible Dreaming and Planning" arXiv (2022). https://arxiv.org/abs/2205.10044
+
 - Capone C., et al. "Burst-dependent plasticity and dendritic amplification support target-based learning and hierarchical imitation learning." arXiv preprint arXiv:2201.11717 (2022). Accepted on ICML 2022. https://arxiv.org/abs/2201.11717
 
 - Capone C.,Muratore P., & Paolucci P. S. (2021). Error-based or target-based? a unifying framework for learning in recurrent spiking networks. arXiv preprint arXiv:2109.01039. Accepted on Plos Computational Biology. https://arxiv.org/abs/2109.01039

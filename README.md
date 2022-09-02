@@ -10,9 +10,9 @@ The brain is capable of learning and solving problems with an astonishing tempor
 
 ### Code Resources
 
-- [GOAL](https://github.com/myscience/goal) in Pythorch, Generalized Optimal Apprentiship Learning. [Link](https://arxiv.org/abs/2109.01039) to the publication. Accepted on Plos Computational Biology.
+- [LTTB](https://github.com/cristianocapone/LTTB) in Python, Learning Through Target Bursts. [Link](https://proceedings.mlr.press/v162/capone22b.html) to the publication. ICML 2022.
 
-- [LTTB](https://github.com/cristianocapone/LTTB) in Python, Learning Through Target Bursts. [Link](https://arxiv.org/abs/2201.11717) to the publication. Accepted on ICML 2022.
+- [GOAL](https://github.com/myscience/goal) in Pythorch, Generalized Optimal Apprentiship Learning. [Link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010221) to the publication. Plos Computational Biology.
 
 - [LTTS](https://github.com/myscience/LTTS) in Python, Learning Through Target Spikes. [Link](https://doi.org/10.1371/journal.pone.0247014) to the publication.
 
@@ -21,9 +21,9 @@ The brain is capable of learning and solving problems with an astonishing tempor
 
 - Capone C., et al. "Towards biologically plausible Dreaming and Planning" arXiv (2022). https://arxiv.org/abs/2205.10044
 
-- Capone C., et al. "Burst-dependent plasticity and dendritic amplification support target-based learning and hierarchical imitation learning." arXiv preprint arXiv:2201.11717 (2022). Accepted on ICML 2022. https://arxiv.org/abs/2201.11717
+- Capone C., et al. "Burst-dependent plasticity and dendritic amplification support target-based learning and hierarchical imitation learning." arXiv preprint arXiv:2201.11717 (2022). ICML 2022. [Link](https://proceedings.mlr.press/v162/capone22b.html)
 
-- Capone C.,Muratore P., & Paolucci P. S. (2021). Error-based or target-based? a unifying framework for learning in recurrent spiking networks. arXiv preprint arXiv:2109.01039. Accepted on Plos Computational Biology. https://arxiv.org/abs/2109.01039
+- Capone C.,Muratore P., & Paolucci P. S. (2021). Error-based or target-based? a unifying framework for learning in recurrent spiking networks. arXiv preprint arXiv:2109.01039. Plos Computational Biology. [Link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010221)
 
 - Muratore P., Capone C., & Paolucci P. S. (2021). Target spike patterns enable efficient and biologically plausible learning for complex temporal tasks. Plos one, 16(2), e0247014. https://doi.org/10.1371/journal.pone.0247014
 
